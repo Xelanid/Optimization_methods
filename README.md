@@ -10,6 +10,6 @@ This task I should realize with next methods:
 * dichotomy method 
 * golden ratio method 
 * Fibbonacci method
-* method tangent method
+* tangent method
 * Newton-Raphson method
 * secant method
